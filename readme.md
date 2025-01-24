@@ -9,7 +9,7 @@
  ```git
  git reset --hard 8aea9f6
  ```
- > Todos los commit dejan un rastro y se puede navegar hacia ellos a traves de us ID.
+ > Todos los commit dejan un rastro y se puede navegar hacia ellos a traves de sus ID.
  - El merge del paso 13, ¿Causó algún conflicto? ¿Por qué?
  > Si porque se cambio el contenido de git-nuestro
  - El merge del paso 19, ¿Causó algún conflicto? ¿Por qué?
